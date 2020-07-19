@@ -149,7 +149,7 @@ body {
   padding: 0 150px;
   align-items: center;
   background: rgba(51, 51, 51, 0.8);
-  background-image: url(about_me_back.jpg);
+  background-image: url("about_me_back.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
